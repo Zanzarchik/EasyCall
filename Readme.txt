@@ -1,1 +1,1 @@
-First line is bad
+First line is no bad, but no good
