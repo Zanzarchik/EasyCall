@@ -1,1 +1,2 @@
-First line is bad
+First line is good
+Second line add
